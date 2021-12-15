@@ -1,16 +1,36 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm Alireza.</h2>
+<p align="center">
+  <a href="https://jatinrao.dev">Blog</a> •
+  <a href="https://twitter.com/iamjatinrao">Twitter</a>
+</p>
 
-<!--
-**alirezaborzuei/alirezaborzuei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Next.js and GO**
+- 💬 Ask me about **Next.js,GO**, Content Creation**
+- I learned many language like C,C++,VHDL,Matlab,Java,Asp.Net,Python,Android,JS,Node.Js and flutter But like React.
+- 📫 How to reach me: [@Alireza](https://twitter.com/Alirezaborzuei) on Twitter
+- LinkedIn Account :[Alireza BOrzuei](https://www.linkedin.com/in/alireza-borzuei-088119a1/)
 
-Here are some ideas to get you started:
+-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Website](http://alirezaborzuei.unaux.com/?i=1)
+- [RecommenderTelegramBot](#)
+- [MafiaTelegramBot](#)
+- [MerikCO](http://www.merikco.com/)
+<!-- BLOG-POST-LIST:END -->
+
+-----
+
+<img align="center" alt="Alireza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alirezaborzuei&show_icons=true&hide_border=true" />
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/alirezaborzuei/count.svg" />
+</p>
+
+-----
+Credits: [Alireza](https://github.com/alirezaborzuei)
+
+Last Edited on: 15/12/2021
