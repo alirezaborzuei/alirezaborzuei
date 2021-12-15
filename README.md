@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Alireza.</h2>
 <p align="center">
-  <a href="https://jatinrao.dev">Blog</a> •
+  <a href="http://alirezaborzuei.unaux.com/?i=1">Blog</a> •
   <a href="https://twitter.com/iamjatinrao">Twitter</a>
 </p>
 
@@ -8,7 +8,7 @@
 - 💬 Ask me about **Next.js,GO**, Content Creation**
 - I learned many language like C,C++,VHDL,Matlab,Java,Asp.Net,Python,Android,JS,Node.Js and flutter But like React.
 - 📫 How to reach me: [@Alireza](https://twitter.com/Alirezaborzuei) on Twitter
-- LinkedIn Account :[Alireza BOrzuei](https://www.linkedin.com/in/alireza-borzuei-088119a1/)
+- LinkedIn Account :[Alireza Borzuei](https://www.linkedin.com/in/alireza-borzuei-088119a1/)
 
 -----
 
