@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js and GO**
 - 💬 Ask me about **Next.js,GO**, Content Creation**
-- I learned many language like C,C++,VHDL,Matlab,Java,Asp.Net,Python,Android,JS,Node.Js and flutter But love React.
+- I learned many languages like C,C++,VHDL,Matlab,Java,Asp.Net,Python,Android,JS,Node.Js and flutter But love React.
 - 📫 How to reach me: [@Alireza](https://twitter.com/Alirezaborzuei) on Twitter
 - LinkedIn Account :[Alireza Borzuei](https://www.linkedin.com/in/alireza-borzuei-088119a1/)
 
