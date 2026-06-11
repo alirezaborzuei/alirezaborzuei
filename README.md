@@ -176,36 +176,4 @@ I am a Backend Engineer and Full-Stack Developer with a passion for building sca
 
 <br />
 
-<h2 align="center">GitHub Stats & Activity</h2>
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=header&text=AlirezaBorzouei&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=55&fontAlign=50"/>
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlirezaBorzouei&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaBorzouei&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-</div>
-
-<br/><br/>
-
-<!-- Trophies -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=AlirezaBorzouei&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
-
-<br/><br/>
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlirezaBorzouei&theme=react-dark&bg_color=0d1117&color=00b4db&line=0083b0&point=ffffff&area=true&hide_border=true"/>
-</p>
-
-- [Understanding JWT Authentication in Express.js](https://medium.com/@alirezaborzouei)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,60:2c5364,100:0083b0&height=150&section=footer&animation=fadeIn&fontColor=ffffff" width="100%"/>
